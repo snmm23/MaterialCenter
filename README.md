@@ -1,4 +1,5 @@
 # MaterialCenter
+一款可以拖动和隐藏Title的Demo
 AndroidMaterial-PersonalCenter Sample
 
 Preview
