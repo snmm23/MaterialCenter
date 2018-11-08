@@ -1,5 +1,6 @@
 # MaterialCenter
-一款可以拖动和隐藏Title的Demo
+一款基于ViewPage可以拖动和隐藏Title的Demo（类似微博个人中心）
+
 AndroidMaterial-PersonalCenter Sample
 
 Preview
